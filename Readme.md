@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=dark5net&show_icons=true&theme=radical" width="380">
 
 - 🌱 I’m currently learning Coding, Pentest and Cooking
-- 👀 My Blog: https://dark5net.me
-- 📫 How to reach me: dark5net.me@gmail.com
+- 👀 My Blog: https://www.dark5.net/blog
+- 📫 How to reach me: https://www.dark5.net/
 - [![GitHub dark5net](https://img.shields.io/github/followers/dark5net?label=follower%20github&style=flat-square)](https://github.com/dark5net)
 
 
